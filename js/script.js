@@ -13,7 +13,3 @@ let c = 1220000
     console.log("c");
 }
 
-
-    
-    
-
